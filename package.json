@@ -1,6 +1,7 @@
 {
   "name": "@mh-solid-dev/react-filterize",
-  "version": "0.0.2",
+  "version": "0.0.4",
+  "license": "ISC",
   "private": false,
   "repository": {
     "type": "git",

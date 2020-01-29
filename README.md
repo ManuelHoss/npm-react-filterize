@@ -19,7 +19,7 @@ yarn add @mh-solid-dev/react-filterize
 In order to define your filters you have to define an object.
 This is an example which shows all available kinds of "FilterItemTypes":
 
-```JSON
+```Javascript
 const filterDeclaration = {
   searchValue: {
       label: 'Suche:',
