@@ -38,7 +38,7 @@
     ]
   },
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "react-select": "^3.0.8",
     "react-switch": "^5.0.1"
   },
